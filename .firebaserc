@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-32376": {
+      "hosting": {
+        "studybuddy": [
+          "kanban-32376"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-32376"
+  }
+}
